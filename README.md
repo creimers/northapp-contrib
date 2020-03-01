@@ -51,9 +51,11 @@ Community-supported integrations:
 - 🚂 Rejsekort
 - 🚂 Trainline (contributor:[liamgarrison](https://github.com/liamgarrison))
 - 🚂 Transport for London (contributor:[liamgarrison](https://github.com/liamgarrison))
+- 🚂 Outsmart (digitize paper tickets) (contributor:[creimers](https://github.com/creimers))
 - ⚡ Sense (contributor:[snarfed](https://github.com/snarfed))
 - ⚡ Linky (contributor:[bokub](https://github.com/bokub))
 - ⚡ Ørsted (contributor:[felixdq](https://github.com/felixdq))
+- ⚡ Outsmart (digitize paper bills) (contributor:[creimers](https://github.com/creimers))
 - 🚗 Renault Zoé
 - 🚗 Uber (contributor:[willtonkin](https://github.com/willtonkin))
 - 🚗 Automatic (contributor:[lauvrenn](https://github.com/lauvrenn))
